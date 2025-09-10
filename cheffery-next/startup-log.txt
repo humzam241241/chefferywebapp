@@ -1,0 +1,5 @@
+Starting log 
+Time: 2025-09-09 19:20:04.07 
+C:\Program Files\nodejs\node.exe
+Node version: 
+v22.18.0

@@ -1,0 +1,33 @@
+[
+  {
+    "key": "private-events",
+    "title": "Private Events",
+    "summary": "Intimate celebrations shaped around your taste.",
+    "details": "From milestone dinners to rarefied soirées, we compose courses, cadence, and atmosphere to honor your story.",
+    "cta": "Book this service"
+  },
+  {
+    "key": "corporate-dining",
+    "title": "Corporate Dining",
+    "summary": "Polished hospitality for executive gatherings.",
+    "details": "Confident, discreet, and precise—experiences that reflect your brand with culinary finesse.",
+    "cta": "Book this service"
+  },
+  {
+    "key": "tasting-menus",
+    "title": "Tasting Menus",
+    "summary": "Seasonal tasting journeys, curated.",
+    "details": "Thoughtfully sequenced courses revealing texture, temperature, and terroir in conversation.",
+    "cta": "Book this service"
+  },
+  {
+    "key": "staffing-addons",
+    "title": "Staffing Add-ons",
+    "summary": "Service enhancements tailored to scale.",
+    "details": "Sommelier pairings, bar programs, and refined service teams to elevate the moment.",
+    "cta": "Book this service"
+  }
+]
+
+
+
